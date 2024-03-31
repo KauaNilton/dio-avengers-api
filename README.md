@@ -2,6 +2,13 @@
 
 Desenvolvimento de uma API utilizando SpringBoot + Kotlin com o intuito de cadastro de Vingadores.
 
+---
+
+Através da [Digital Innovation One](https://digitalinnovation.one/),
+com o tech engineer specialist Jether Rodrigues
+
+---
+
 ## Tecnologias / Frameworks / IDE
 
 - Intellij
