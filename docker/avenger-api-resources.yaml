@@ -8,7 +8,7 @@ services:
       POSTGRES_PASSWORD: ${DB_PASSWORD}
       ALLOW_IP_RANGE: 0.0.0.0/0
     ports:
-      - "25433:5432"
+      - "5432:5432"
     volumes:
       - pdb12:/var/lib/postgresql/data
     networks:
