@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: vercel
+    active: prod
   jackson:
     serialization:
       indent-output: true
